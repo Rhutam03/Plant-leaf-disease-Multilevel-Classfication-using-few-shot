@@ -4,9 +4,9 @@
 ### Final Year Project — BE Computer Engineering (Data Science)
 
 ---
-
-## 📌 **Project Overview**
 **Note** - Change timer of layout.html if doesn't work or comment that line
+## 📌 **Project Overview**
+
 Plant diseases cause major crop losses every year, especially in rural areas where farmers may not have access to experts. Early and accurate disease detection can help prevent these losses. However:
 
 * Most ML/DL models need **large datasets**,
